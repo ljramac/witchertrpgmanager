@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Brujo",
+    "description": "Los brujos son un asunto peliagudo desde que los crearon, ya hace siglos. Pero déjame decirte, camarada, que incluso cuando la gente los andaba buscando, en realidá a nadie le gustaban. Son críos humanos hasta que se los llevan a una de las cinco Escuelas de Brujos. En las fortalezas esas, los críos reciben un entrenamiento mu salvaje que los convierte en armas vivientes. Rápidos como el demonio, entrenados pa luchar a ciegas y cazar a prácticamente cualquier monstruo que pueda encontrarse un pobre fulano. Después dunos años, reciben una sarta de mutaciones. Una de las más comentás es la Prueba de las Hierbas. El brujo con el que anduve me dijo que solo uno de cada cuatro críos sobrevive a to el proceso. Los que lo hacen, cambian. Tienen ojos brillantes, como de gato, y casi no tienen sentimientos. Tengo entendío que lo de las emociones sarregla con el tiempo. Joder, si el brujo con el que iba hasta contó algún chiste por el camino. Pero, a partir de entonces, son asesinos. Renacen con un objetivo: cargarse monstruos. Y, diantre, si pués ver a un brujo en acción verás los frutos de tanta penuria. Lo malo es que son mutantes y, si hay algo que to quisque odia, son los mutantes. Los brujos casi no tienen carisma, asín que la gente cree que son asesinos fríos y desalmaos capaces de robarte tu oro, violar a tu hija y luego rajarte los budejos.",
+    "advantages":[
+      {
+        "title": "Emociones Embotadas",
+        "description": "A causa del trauma y las mutaciones, las emociones de un brujo quedan embotadas. Los brujos no necesitan realizar tiradas de Coraje contra los intentos de Intimidar, pero sufren un penalizador de -4 a su característica Empatía. Este penalizador no puede reducir el valor de la característica por debajo de 1."
+      },
+      {
+        "title": "Reflejos Fulgurantes",
+        "description": "Como fruto de un entrenamiento intensivo y de sus mutaciones, los brujos son mucho más rápidos y ágiles que los humanos. Reciben de forma permanente un +1 a Reflejos y Destreza, que puede elevar ambas características por encima de 10."
+      },
+      {
+        "title": "Resistencia Mutante",
+        "description": "Tras sufrir las mutaciones necesarias para convertirse en brujos, estos son inmunes a enfermedades y pueden emplear mutágenos."
+      },
+      {
+        "title": "Sentidos Mejorados",
+        "description": "Gracias a sus sentidos mejorados, los brujos no sufren penalizaciones en zonas con luz tenue y reciben un bonificador innato de +1 a la habilidad Advertir/Notar, así como la capacidad de rastrear algo mediante el olfato."
+      }
+    ]
+  },
+  {
+    "name": "Elfo",
+    "description": "Los elfos (o Aen Seidhe, ya que nuestros elfos no son los únicos que hay) tienen un pasao mu trágico. Je. Se vinieron dotro lao a este mundo no mucho antes que los humanos, en grandes barcos blancos. No diría que son la más amable de las razas, pero se llevan bastante bien con los demás. No son mu distintos de los humanos: altos, flacuchos, tienden a mirar a los demás por encima del hombro... solo los diferencian las orejas de punta, una vida eterna y su unión con la tierra. Je, los elfos son uno con la naturaleza o algo asín. Han vivío de la tierra generaciones enteras, buscando comida y construyendo grandes palacios. Llevan tanto tiempo comiendo bayas y plantas que ni siquiera tienen los dientes afilaos. Pero no te andes metiendo con ellos: también son unas bestias pardas en el campo de batalla. Puede que no vayan mu blindaos, pero son tan difíciles de ver en los campos como una rana en invierno, y probablemente sean los mejores arqueros que que han existío.",
+    "advantages":[
+      {
+        "title": "Artístico",
+        "description": "Los elfos tienen un gran ojo para la belleza y un talento natural para las cuestiones artísticas. Por ello reciben un +1 innato a la habilidad Bellas Artes."
+      },
+      {
+        "title": "Sintonía con la Naturaleza",
+        "description": "Los elfos tienen un intenso vínculo mágico con la propia naturaleza. Intentan no molestar a los animales, por lo que cualquier bestia que encuentren se considerará amistosa y no les atacará salvo que la provoquen. Además, encuentran automáticamente cualquier sustancia vegetal cuya disponibilidad sea Común o Universal que estén buscando, siempre que dicha sustancia se encuentre de forma natural en la zona."
+      },
+      {
+        "title": "Tirador",
+        "description": "Los años de tradición y práctica han convertido a los elfos en unos de los mejores arqueros del mundo. Los elfos reciben un +2 innato a la habilidad Arco y pueden empuñar y encordar un arco sin que les cueste una acción."
+      }
+    ]
+  },
+  {
+    "name": "Enano",
+    "description": "Je, je, je. Camarada, los ríos se secan, las montañas se derrumban... pero los enanos son algo constante. Pué que seamos bajos comparaos a los elfos y los humanos, pero somos más correosos de lo que ellos serán jamás. ¡Nosotros sí que estamos forníos! Los enanos llevamos un porrón de tiempo por aquí, viviendo en las montañas y haciendo lo nuestro: forjar. Cuando se nos conoce, somos bastante majos y tratables... siempre que no nos toquen los güevos. Puede que a los humanos no les entusiasmen los enanos, pero nos necesitan por nuestras habilidades y por nuestro acero. Además, y no como esos condenaos elfos, no tenemos un odio innato a los humanos. Nosotros vamos a lo nuestro y ellos a lo suyo. Nos tomamos algo juntos de uvas a peras y ya. La pena es que por tol Norte tol mundo sestá volviendo loco y ahora se meten con los enanos más que nunca. ¡Por suerte, a los humanos les cuesta mucho apreciar a nuestras mujeres! Nunca encontrarán una moza más guapa que una enana. Dicen que cuanto más frondosa tienen la barba, más frondoso el... bué, ya te haces una idea.",
+    "advantages":[
+      {
+        "title": "Duro",
+        "description": "Al pasar gran parte de su tiempo en montañas y minas, los enanos tienen una piel naturalmente dura. La piel de los enanos tiene una Capacidad de Parada de 2. Esta CP no se puede reducir con ataques de armas ni daño ablativo, ni tampoco se considera una capa de armadura que se combine con otras que pueda llevar el personaje."
+      },
+      {
+        "title": "Fuerte",
+        "description": "Dada su complexión robusta y la tendencia a profesiones físicamente arduas y agotadoras, los enanos reciben un bonificador innato de +1 a la habilidad Proezas de Fuerza y su Estorbo aumenta en 25."
+      },
+      {
+        "title": "Ojo de Artesano",
+        "description": "Su ojo para los detalles y para tasar objetos hace que sea difícil estafar a un enano. Los enanos tienen un bonificador innato de +1 a la habilidad Negociar."
+      }
+    ]
+  },
+  {
+    "name": "Humano",
+    "description": "Si no fuese tan buena persona, me desquitaría y te diría toas las cosas horribles que han hecho los humanos a mi pueblo y a las otras razas antiguas. Pero estoy por encima deso. He trabajao con muchos humanos en las Guerras del Norte. Diantre, la mayor parte del ejército temerio eran humanos. Los humanos puén ser buena gente. Son mu distintos unos dotros y una raza bastante resistente, pero tienden a dejarse masacrar por causas y miedos. Ahora mismo son la especie dominante del Continente, y lo saben. Je. Es fácil hablar mal dellos. Por poco no eliminan a toas las razas antiguas, se cargaron a los vran, de los bobolakos no dejaron más que unos cientos, levantaron sus ciudades sobre otras del pueblo antiguo y, en según qué lugares, siguen matando a gente de las razas antiguas a puñaos cada día. Pero no son tan malos. La mayoría de magos son humanos y son capaces de desestabilizar países y sumir el mundo en el caos, pero también han mejorao el mundo con su magia y su ciencia. Los humanos son gente lista y, si hace falta, un humano que conozcas bien pué guardarte las espaldas.",
+    "advantages":[
+      {
+        "title": "Fiable",
+        "description": "En un mundo en que no se puede confiar en los no-humanos, los humanos parecen más de fiar. Los humanos reciben un bonificador innato de +1 a las tiradas de Carisma, Seducción y Persuasión dirigidas a otros humanos."
+      },
+      {
+        "title": "Ingenio",
+        "description": "Los humanos son astutos y suelen encontrar soluciones ingeniosas a los problemas más difíciles. Reciben un bonificador innato de +1 a Deducción."
+      },
+      {
+        "title": "Testarudo",
+        "description": "Parte de la fuerza de la raza humana se debe a su disposición a avanzar implacablemente, incluso ante un peligro mortal. Tres veces por sesión de juego, un humano puede apelar a su coraje y repetir una tirada fallida de Coraje o Resistir Coacción. Aplican el mejor de los resultados obtenidos y no pueden emplear esta capacidad más de una vez en una misma tirada."
+      }
+    ]
+  }
+]

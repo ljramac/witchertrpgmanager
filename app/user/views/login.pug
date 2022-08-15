@@ -2,7 +2,7 @@ extends ../../base/views/layout
 
 block content
   div(class="row")
-    div(class="col-md-12")
+    div(class="col-md-4 offset-md-4")
         form(class="form" method="POST" action="/user/login")
           div(class="form-group")
             label(for="email" class="control-label") Email
@@ -13,6 +13,3 @@ block content
           div(class="form-group")
             label(class="control-label")
             input(class="form-control" type="submit" value="Login")
-          div.text-center
-            a(href="/user/register")
-              small Registrarse

@@ -19,8 +19,12 @@ html
             li(class="nav-item")
               a(class="nav-link" href="/") Inicio
             if !user
-              li(class="nav-item")
-                a(class="nav-link" href="/user/login") Login
+              if /login/.test(pathname || "")
+                li(class="nav-item")
+                  a(class="nav-link" href="/user/register") Registro
+              else
+                li(class="nav-item")
+                  a(class="nav-link" href="/user/login") Login
             else
               li(class="nav-item")
                 a(class="nav-link" href="/character") Nuevo personaje

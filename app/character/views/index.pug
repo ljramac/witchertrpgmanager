@@ -4,13 +4,39 @@ block content
   div(class="row")
     div(class="col-md-12")
       div(id="accordion")
-        div(class="card")
-          div(class="card-header" id="razeStepHeader")
-            h5(class="mb-0")
-              button(class="btn btn-link" data-toggle="collapse" data-target="#razeStepContent" aria-expanded="true" aria-controls="razeStepContent") Select your raze
-          include ./wizard/raze
-        div(class="card")
-          div(class="card-header" id="pathStepHeader")
-            h5(class="mb-0")
-              button(class="btn btn-link" data-toggle="collapse" data-target="#pathStepContent" aria-expanded="true" aria-controls="pathStepContent") Select your path
-          include ./wizard/path
+        form()
+          div(class="card")
+            div(class="card-header" id="raceStepHeader")
+              h5(class="mb-0")
+                button(class="btn btn-link" data-toggle="collapse" data-target="#raceStepContent" aria-expanded="true" aria-controls="raceStepContent") 1. Escoge tu raza
+            include ./wizard/race
+          div(class="card")
+            div(class="card-header" id="pathStepHeader")
+              h5(class="mb-0")
+                button(class="btn btn-link" data-toggle="collapse" data-target="#pathStepContent" aria-expanded="true" aria-controls="pathStepContent") 2. Sigue el camino de la vida
+            include ./wizard/path
+          div(class="card")
+            div(class="card-header" id="jobStepHeader")
+              h5(class="mb-0")
+                button(class="btn btn-link" data-toggle="collapse" data-target="#jobStepContent" aria-expanded="true" aria-controls="jobStepContent") 3. Escoge tu profesión
+            include ./wizard/job
+          div(class="card")
+            div(class="card-header" id="statsStepHeader")
+              h5(class="mb-0")
+                button(class="btn btn-link" data-toggle="collapse" data-target="#statsStepContent" aria-expanded="true" aria-controls="statsStepContent") 4. Escoge tus características
+            include ./wizard/stats
+          div(class="card")
+            div(class="card-header" id="skillsStepHeader")
+              h5(class="mb-0")
+                button(class="btn btn-link" data-toggle="collapse" data-target="#skillsStepContent" aria-expanded="true" aria-controls="skillsStepContent") 5. Escoge tus habilidades
+            include ./wizard/skills
+          div(class="card")
+            div(class="card-header" id="goldStepHeader")
+              h5(class="mb-0")
+                button(class="btn btn-link" data-toggle="collapse" data-target="#goldStepContent" aria-expanded="true" aria-controls="goldStepContent") 6. Recibe tu dinero
+            include ./wizard/gold
+          div(class="card")
+            div(class="card-header" id="shopStepHeader")
+              h5(class="mb-0")
+                button(class="btn btn-link" data-toggle="collapse" data-target="#shopStepContent" aria-expanded="true" aria-controls="shopStepContent") 7. Equípate
+            include ./wizard/shop

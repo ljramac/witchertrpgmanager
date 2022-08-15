@@ -22,7 +22,7 @@ router
       res.render("user/views/login", { error: error.toString() });
     }
   })
-  .get("/login", async (req, res) => {
+  .get("/login", locals, async (req, res) => {
     try {
       res.render("user/views/login", { message: req.query.message, error: req.query.error });
     } catch (error) {
@@ -49,7 +49,7 @@ router
       res.render("user/views/login", { error: error.toString() });
     }
   })
-  .get("/register", async (req, res) => {
+  .get("/register", locals, async (req, res) => {
     try {
       res.render("user/views/register");
     } catch (error) {
