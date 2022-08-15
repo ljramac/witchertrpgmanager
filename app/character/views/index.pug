@@ -1,0 +1,16 @@
+extends ../../base/views/layout
+
+block content
+  div(class="row")
+    div(class="col-md-12")
+      div(id="accordion")
+        div(class="card")
+          div(class="card-header" id="razeStepHeader")
+            h5(class="mb-0")
+              button(class="btn btn-link" data-toggle="collapse" data-target="#razeStepContent" aria-expanded="true" aria-controls="razeStepContent") Select your raze
+          include ./wizard/raze
+        div(class="card")
+          div(class="card-header" id="pathStepHeader")
+            h5(class="mb-0")
+              button(class="btn btn-link" data-toggle="collapse" data-target="#pathStepContent" aria-expanded="true" aria-controls="pathStepContent") Select your path
+          include ./wizard/path

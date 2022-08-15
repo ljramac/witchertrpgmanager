@@ -10,6 +10,7 @@ const MemoryStore = require("memorystore")(session);
 
 const userRouter = require("./user/router.js");
 const baseRouter = require("./base/router.js");
+const characterRouter = require("./character/router.js");
 
 const logger = require("../services/logger");
 
@@ -36,8 +37,7 @@ app.use(session({
   }),
 }));
 
-app.use("/bootstrap", express.static(path.resolve("./node_modules/bootstrap/dist")));
-app.use("/jquery", express.static(path.resolve("./node_modules/jquery/dist")));
+app.use(express.static(path.resolve("./public")));
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
@@ -52,6 +52,7 @@ app.get("/", locals, (req, res) => res.redirect("/home"));
 
 app.use("/user", userRouter);
 app.use("/home", baseRouter);
+app.use("/character", characterRouter);
 
 const init = async () => {
   try {
