@@ -1,0 +1,20 @@
+extends ../../base/views/layout
+
+block content
+  div(class="row")
+    div(class="col-md-12")
+      form(class="form" method="POST" action="/user/update")
+        div(class="form-group")
+          label(for="password" class="control-label") New password
+          input(type="password" name="password" id="password" class="form-control" placeholder="New password")
+        div(class="form-group")
+          label(for="_password" class="control-label") Repeat new password
+          input(type="password" name="_password" id="_password" class="form-control" placeholder="Repeat New password")
+        div(class="form-group")
+          label(for="firstname" class="control-label") First name
+          input(type="text" name="firstname" id="firstname" class="form-control" value=user.firstname)
+        div(class="form-group")
+          label(class="control-label")
+          input(class="form-control" type="submit" value="Update")
+        div(class="form-group")
+          a(href="/user/logout") Logout

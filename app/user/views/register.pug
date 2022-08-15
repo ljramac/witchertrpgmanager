@@ -1,0 +1,26 @@
+extends ../../base/views/layout
+
+block content
+  div(class="row")
+    div(class="col-md-12")
+      form(class="form" method="POST" action="/user/register")
+        div(class="form-group")
+          label(for="email" class="control-label") Email *
+          input(type="email" name="email" id="email" class="form-control" placeholder="Email" required)
+        div(class="form-group")
+          label(for="password" class="control-label") Password *
+          input(type="password" name="password" id="password" class="form-control" placeholder="Password" required)
+        div(class="form-group")
+          label(for="_password" class="control-label") Repeat password *
+          input(type="password" name="_password" id="_password" class="form-control" placeholder="Repeat Password" required)
+        div(class="form-group")
+          label(for="firstname" class="control-label") First name
+          input(type="text" name="firstname" id="firstname" class="form-control" placeholder="First name")
+        div(class="form-group")
+          label(class="control-label")
+          input(class="form-control" type="submit" value="Register")
+        small
+          b * Campos requeridos
+        div.text-center
+          a(href="/user/login")
+            small Go to login page

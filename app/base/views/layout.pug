@@ -1,0 +1,35 @@
+doctype html
+html
+  head
+    title The Witcher TRPG Manager
+    block head
+      meta(name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no")
+      link(rel="stylesheet" href="/bootstrap/css/bootstrap.min.css")
+  body
+    block menu
+      div(class="container-fluid")
+        div(class="row")
+          div(class="col-md-12")
+            nav(class="navbar navbar-expand-lg navbar-light bg-light")
+              if user
+                a(class="navbar-brand" href="/user/update") #{user.email.slice(0,2).toUpperCase()}
+              button(class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation")
+                span(class="navbar-toggler-icon")
+              div(class="collapse navbar-collapse" id="navbarNav")
+                ul(class="navbar-nav")
+                  li(class="nav-item")
+                    a(class="nav-link" href="/") Home
+                  if !user
+                    li(class="nav-item")
+                      a(class="nav-link" href="/user/login") Login
+    div(class="separator")
+    div(class="container")
+      block content
+  footer
+    block footer
+      if error
+        div(class="container-fluid") #{error}
+      if message
+        div(class="container-fluid") #{message}
+      script(type="text/javascript" src="/jquery/jquery.min.js")
+      script(type="text/javascript" src="/bootstrap/js/bootstrap.min.js")
