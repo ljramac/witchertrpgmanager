@@ -1,0 +1,52 @@
+[
+  {
+    "Norteño": "Uno de tus padres murió en las Guerras del Norte. Lo más probable es que fuera tu padre, pero también es posible que tu madre luchase o fuese una baja colateral.",
+    "Nilfgaardiano": "Tu padre murió en una de las Guerras del Norte. Puede que fuera un militar de carrera o que lo reclutasen durante dicha guerra.",
+    "Tierras Antiguas": "Uno de tus padres (o ambos) fue acusado de ser scoia’tael. La gente que te rodea le mira con desdén."
+  },
+  {
+    "Norteño": "Uno de tus padres (o ambos) te abandonó en el campo para que te buscases la vida. Puede que no pudieran mantenerte o que fueras un accidente.",
+    "Nilfgaardiano": "Uno de tus padres (o ambos) fue envenenado. Puede que fuera obra de un rival profesional o que alguien intentase quitar de en medio a tus padres.",
+    "Tierras Antiguas": "Uno de tus padres se volvió contra su gente y vendió al pueblo antiguo a los humanos. Tus padres no son bien recibidos en tu tierra natal."
+  },
+  {
+    "Norteño": "Uno de tus padres (o ambos) quedó maldito por un mago o por el intenso odio de alguien a quien se enfrentó. La maldición le costó la vida.",
+    "Nilfgaardiano": "La policía secreta se llevó a uno de tus padres (o a ambos) para “interrogarlos”. La semana siguiente aparecieron ahorcados en las calles de la ciudad.",
+    "Tierras Antiguas": "Uno de tus padres (o ambos) se suicidó, fruto de la desesperación. Sin esperanzas de recuperar la gloria del pasado, se rindió y acabó con su vida."
+  },
+  {
+    "Norteño": "Uno de tus padres (o ambos) te vendió por dinero, o tal vez por bienes o servicios. Tus padres lo necesitaban más que a ti.",
+    "Nilfgaardiano": "Uno de tus padres (o ambos) murió a manos de un mago rebelde. Lo más probable es que intentase denunciar a dicho mago al Imperio y pagase por ello.",
+    "Tierras Antiguas": "Mientras viajaba, uno de tus padres (o ambos) cayó presa del racismo humano. Murió en un pogromo y su cuerpo se expuso en una pica."
+  },
+  {
+    "Norteño": "Uno de tus padres (o ambos) se unió a una banda. Veías a menudo a dicha banda y a veces tenías que trabajar para ellos.",
+    "Nilfgaardiano": "Uno de tus padres (o ambos) fue encarcelado por practicar magia ilegal. Quizá cometiera el crimen realmente, o quizá fuera una trampa.",
+    "Tierras Antiguas": "Uno de tus padres (o ambos) se obsesionó con recuperar la antigua gloria de su raza. Está dispuesto a sacrificarlo todo por su causa."
+  },
+  {
+    "Norteño": "Uno de tus padres (o ambos) murió a manos de un monstruo. Debes decidir qué lo mató.",
+    "Nilfgaardiano": "Uno de tus padres (o ambos) fue exiliado al Desierto de Korath. Probablemente cometió un crimen grave, pero matarle era problemático.",
+    "Tierras Antiguas": "Uno de tus padres (o ambos) fue exiliado de tu tierra natal. Hay muchas razones posibles, desde un crimen a tener opiniones discordantes."
+  },
+  {
+    "Norteño": "Uno de tus padres (o ambos) fue ejecutado injustamente. Puede que fuera un chivo expiatorio de alguien o que simplemente estuviera en el lugar equivocado.",
+    "Nilfgaardiano": "Uno de tus padres (o ambos) quedó maldito por un mago. Probablemente el mago le guardase rencor por algo.",
+    "Tierras Antiguas": "Uno de tus padres (o ambos) quedó maldito. Puedes decidir la naturaleza de esta maldición o dejar que lo haga el Director de Juego."
+  },
+  {
+    "Norteño": "Uno de tus padres (o ambos) murió a causa de una epidemia. No se podía hacer nada salvo evitarle el sufrimiento.",
+    "Nilfgaardiano": "Un día, tus padres te abandonaron sin más. Puede que ni siquiera sepas por qué; simplemente, desaparecieron.",
+    "Tierras Antiguas": "Tus padres te entregaron a otra familia para que sobrevivieras porque ellos no podían cuidarte."
+  },
+  {
+    "Norteño": "Uno de tus padres (o ambos) huyó a Nilfgaard. Puede que le ofreciesen algo por su información o que cruzase la frontera sin más.",
+    "Nilfgaardiano": "Uno de tus padres (o ambos) fue esclavizado. O cometió un crimen contra el Imperio o un rival le puso una trampa.",
+    "Tierras Antiguas": "Uno de tus padres (o ambos) se unió a los scoia’tael en un intento de vengarse de los humanos, que considera que arruinan vuestras vidas."
+  },
+  {
+    "Norteño": "Uno de tus padres (o ambos) fue secuestrado por nobles. Probablemente fue tu madre quien llamó la atención de un señor local o de su hijo.",
+    "Nilfgaardiano": "Uno de tus padres (o ambos) fue enviado al Norte como agente doble. Probablemente ni siquiera sepas dónde está, pero sirve al Emperador.",
+    "Tierras Antiguas": "Uno de tus padres (o ambos) murió en un “accidente”. Lo más probable es que se ganase un poderoso enemigo que finalmente encontró una manera de librarse de él/ella."
+  }
+]

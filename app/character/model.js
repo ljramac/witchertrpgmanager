@@ -25,6 +25,14 @@ const CharacterSchema = new Schema({
     ref: "Race",
     autopopulate: true
   },
+  origins: {
+    kingdom: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "Kingdom",
+      autopopulate: true
+    },
+    family: { type: String }
+  },
   meta: {
     type: Object,
     default: {}

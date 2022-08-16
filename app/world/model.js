@@ -18,6 +18,7 @@ const KingdomSchema = new Schema({
   ...base.schema,
   name: { type: String, required: true },
   description: { type: String, required: true },
+  advantage: { type: String, required: true },
   region: {
     type: mongoose.Schema.Types.ObjectId,
     ref: "Region",
