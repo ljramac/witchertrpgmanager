@@ -1,0 +1,62 @@
+[
+  {
+    "Género": "Hombre",
+    "Edad": "Menor",
+    "Sentimientos hacia Ti": "Quiere verte muerto",
+    "Personalidad": "Tímido"
+  },
+  {
+    "Género": "Mujer",
+    "Edad": "Menor",
+    "Sentimientos hacia Ti": "No te soporta",
+    "Personalidad": "Agresivo"
+  },
+  {
+    "Género": "Hombre",
+    "Edad": "Menor",
+    "Sentimientos hacia Ti": "Te envidia",
+    "Personalidad": "Amable"
+  },
+  {
+    "Género": "Mujer",
+    "Edad": "Menor",
+    "Sentimientos hacia Ti": "Indiferente",
+    "Personalidad": "Extraño"
+  },
+  {
+    "Género": "Hombre",
+    "Edad": "Menor",
+    "Sentimientos hacia Ti": "Indiferente",
+    "Personalidad": "Reflexivo"
+  },
+  {
+    "Género": "Mujer",
+    "Edad": "Mayor",
+    "Sentimientos hacia Ti": "Indiferente",
+    "Personalidad": "Elocuente"
+  },
+  {
+    "Género": "Hombre",
+    "Edad": "Mayor",
+    "Sentimientos hacia Ti": "Indiferente",
+    "Personalidad": "Romántico"
+  },
+  {
+    "Género": "Mujer",
+    "Edad": "Mayor",
+    "Sentimientos hacia Ti": "Le gustas",
+    "Personalidad": "Serio"
+  },
+  {
+    "Género": "Hombre",
+    "Edad": "Mayor",
+    "Sentimientos hacia Ti": "Te admira",
+    "Personalidad": "Depresivo"
+  },
+  {
+    "Género": "Mujer",
+    "Edad": "Gemelo",
+    "Sentimientos hacia Ti": "Es posesivo contigo",
+    "Personalidad": "Inmaduro"
+  }
+]

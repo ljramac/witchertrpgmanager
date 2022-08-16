@@ -1,52 +1,52 @@
 [
   {
-    "Norteño": "La guerra dispersó a tu familia a los cuatro vientos y no tienes ni idea de dónde están.",
-    "Nilfgaardiano": "Tu familia fue condenada a trabajos forzosos por crímenes contra el Imperio o bajo cargos falsos. Solo tú escapaste.",
+    "Reinos del Norte": "La guerra dispersó a tu familia a los cuatro vientos y no tienes ni idea de dónde están.",
+    "Nilfgaard": "Tu familia fue condenada a trabajos forzosos por crímenes contra el Imperio o bajo cargos falsos. Solo tú escapaste.",
     "Tierras Antiguas": "Tu familia está marcada como simpatizante de los humanos y no es especialmente apreciada en su tierra."
   },
   {
-    "Norteño": "Tu familia fue encarcelada por sus crímenes o bajo cargos falsos. Solo tú escapaste. Puede que quieras liberarlos... o no.",
-    "Nilfgaardiano": "Tu familia fue exiliada al Desierto de Korath y probablemente pasaste la mayor parte de tu infancia luchando por sobrevivir en ese yermo.",
+    "Reinos del Norte": "Tu familia fue encarcelada por sus crímenes o bajo cargos falsos. Solo tú escapaste. Puede que quieras liberarlos... o no.",
+    "Nilfgaard": "Tu familia fue exiliada al Desierto de Korath y probablemente pasaste la mayor parte de tu infancia luchando por sobrevivir en ese yermo.",
     "Tierras Antiguas": "Tu familia quedó marginada por tener opiniones distintas y tu pueblo no socializa en absoluto contigo ni con tu familia."
   },
   {
-    "Norteño": "El hogar familiar quedó maldito y ahora sus cultivos no dan fruto o los espectros moran por sus salones. Se volvió demasiado peligroso quedarse en esa casa.",
-    "Nilfgaardiano": "Tu familia murió a manos de un mago rebelde que tenía rencillas con tu familia o simplemente buscaba sangre. En todo caso, estás solo.",
+    "Reinos del Norte": "El hogar familiar quedó maldito y ahora sus cultivos no dan fruto o los espectros moran por sus salones. Se volvió demasiado peligroso quedarse en esa casa.",
+    "Nilfgaard": "Tu familia murió a manos de un mago rebelde que tenía rencillas con tu familia o simplemente buscaba sangre. En todo caso, estás solo.",
     "Tierras Antiguas": "Tu familia murió en las Guerras del Norte. Puede que luchasen en la guerra o que fuesen víctimas inocentes que estaban en el lugar equivocado."
   },
   {
-    "Norteño": "Con tantas guerras, tu familia perdió su medio de subsistencia y empezó a delinquir para sobrevivir.",
-    "Nilfgaardiano": "Tu familia desapareció y no tienes ni idea de dónde fueron. Un buen día se largaron sin más.",
+    "Reinos del Norte": "Con tantas guerras, tu familia perdió su medio de subsistencia y empezó a delinquir para sobrevivir.",
+    "Nilfgaard": "Tu familia desapareció y no tienes ni idea de dónde fueron. Un buen día se largaron sin más.",
     "Tierras Antiguas": "Tu familia lleva siglos enzarzada en una reyerta familiar. Quizá no se recuerde cómo empezó, pero es encarnizada."
   },
   {
-    "Norteño": "Tu familia contrajo una gran deuda apostando o pidiendo prestado. Necesitas dinero desesperadamente.",
-    "Nilfgaardiano": "Tu familia fue ejecutada por traición al Imperio. Fuiste el único que escapó a este destino.",
+    "Reinos del Norte": "Tu familia contrajo una gran deuda apostando o pidiendo prestado. Necesitas dinero desesperadamente.",
+    "Nilfgaard": "Tu familia fue ejecutada por traición al Imperio. Fuiste el único que escapó a este destino.",
     "Tierras Antiguas": "Por alguna razón, a tu familia se le despojó de sus títulos. Os echaron de vuestro hogar y lucháis por sobrevivir."
   },
   {
-    "Norteño": "Tu familia está enzarzada en una reyerta con otra familia. Puede que ni siquiera recordéis cómo empezó.",
-    "Nilfgaardiano": "Por alguna razón, tu familia fue despojada de sus títulos. Os echaron de vuestro hogar y lucháis por sobrevivir entre la plebe.",
+    "Reinos del Norte": "Tu familia está enzarzada en una reyerta con otra familia. Puede que ni siquiera recordéis cómo empezó.",
+    "Nilfgaard": "Por alguna razón, tu familia fue despojada de sus títulos. Os echaron de vuestro hogar y lucháis por sobrevivir entre la plebe.",
     "Tierras Antiguas": "Cuando eras muy joven, tu familia empezó a asaltar asentamientos humanos para obtener comida y quizá vengarse de ellos."
   },
   {
-    "Norteño": "Por acción u omisión, en vuestra ciudad odian a tu familia y nadie quiere tener nada que ver con vosotros.",
-    "Nilfgaardiano": "El nombre de tu familia quedó empañado por un pariente mago que hizo alarde de su don escandalosamente, como un mago norteño.",
+    "Reinos del Norte": "Por acción u omisión, en vuestra ciudad odian a tu familia y nadie quiere tener nada que ver con vosotros.",
+    "Nilfgaard": "El nombre de tu familia quedó empañado por un pariente mago que hizo alarde de su don escandalosamente, como un mago norteño.",
     "Tierras Antiguas": "Vuestra residencia familiar está maldita. Lo más probable es que se deba a que fue escenario de muchísimas muertes durante la guerra contra los humanos."
   },
   {
-    "Norteño": "Un día, un grupo de bandidos os quitó todo lo que teníais. Tu familia fue masacrada y te quedaste totalmente solo.",
-    "Nilfgaardiano": "Deshonraste a tu familia a ojos del Imperio. Algo que hiciste (o que no lograste hacer) ha echado por tierra tu nombre y perjudicado a tu familia.",
+    "Reinos del Norte": "Un día, un grupo de bandidos os quitó todo lo que teníais. Tu familia fue masacrada y te quedaste totalmente solo.",
+    "Nilfgaard": "Deshonraste a tu familia a ojos del Imperio. Algo que hiciste (o que no lograste hacer) ha echado por tierra tu nombre y perjudicado a tu familia.",
     "Tierras Antiguas": "Tu familia está dividida desde que un pariente tuyo se casó con un humano. A una parte de tu familia le gusta, pero otros lo odian."
   },
   {
-    "Norteño": "Tu familia tiene un oscuro secreto que, si se descubriera, la arruinaría por completo. Puedes decidir cuál es o dejar que lo haga el Director de Juego.",
-    "Nilfgaardiano": "Tu familia tiene un oscuro secreto que, si se descubriera, arruinaría para siempre su nombre y sus vidas. Debes protegerlo con tu vida.",
+    "Reinos del Norte": "Tu familia tiene un oscuro secreto que, si se descubriera, la arruinaría por completo. Puedes decidir cuál es o dejar que lo haga el Director de Juego.",
+    "Nilfgaard": "Tu familia tiene un oscuro secreto que, si se descubriera, arruinaría para siempre su nombre y sus vidas. Debes protegerlo con tu vida.",
     "Tierras Antiguas": "Tu familia mató humanos que los confundieron con scoia’tael. Puede que haya sido masacrada o ahorcada sin juicio previo."
   },
   {
-    "Norteño": "Los miembros de tu familia se odian. Las personas con las que creciste no se hablan y tú tienes suerte de que tus hermanos te saluden al pasar.",
-    "Nilfgaardiano": "Tu familia fue asesinada. Puede que se interpusiesen en los planes de alguien o que los utilizasen para perjudicar a alguien más poderoso. En cualquier caso, ya no están.",
+    "Reinos del Norte": "Los miembros de tu familia se odian. Las personas con las que creciste no se hablan y tú tienes suerte de que tus hermanos te saluden al pasar.",
+    "Nilfgaard": "Tu familia fue asesinada. Puede que se interpusiesen en los planes de alguien o que los utilizasen para perjudicar a alguien más poderoso. En cualquier caso, ya no están.",
     "Tierras Antiguas": "Tu familia desciende de un infame traidor. Eso afecta a todas las interacciones de tu familia con otros sujetos de las razas antiguas y os ha complicado la vida en las tierras antiguas."
   }
 ]

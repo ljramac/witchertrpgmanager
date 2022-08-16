@@ -6,8 +6,7 @@ const Schema = mongoose.Schema;
 
 const RegionSchema = new Schema({
   ...base.schema,
-  name: { type: String, required: true },
-  description: { type: String, required: true },
+  ...base.titleAndDescription,
   meta: {
     type: Object,
     default: {}
@@ -16,8 +15,7 @@ const RegionSchema = new Schema({
 
 const KingdomSchema = new Schema({
   ...base.schema,
-  name: { type: String, required: true },
-  description: { type: String, required: true },
+  ...base.titleAndDescription,
   advantage: { type: String, required: true },
   region: {
     type: mongoose.Schema.Types.ObjectId,

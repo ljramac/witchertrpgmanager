@@ -1,0 +1,52 @@
+[
+  {
+    "Reinos del Norte": 1,
+    "Nilfgaardiano": 1,
+    "No-Humano": 1
+  },
+  {
+    "Reinos del Norte": 2,
+    "Nilfgaardiano": 2,
+    "No-Humano": 2
+  },
+  {
+    "Reinos del Norte": 3,
+    "Nilfgaardiano": 3,
+    "No-Humano": 3
+  },
+  {
+    "Reinos del Norte": 4,
+    "Nilfgaardiano": 4,
+    "No-Humano": "Hijo Único"
+  },
+  {
+    "Reinos del Norte": 5,
+    "Nilfgaardiano": 5,
+    "No-Humano": "Hijo Único"
+  },
+  {
+    "Reinos del Norte": 6,
+    "Nilfgaardiano": "Hijo Único",
+    "No-Humano": "Hijo Único"
+  },
+  {
+    "Reinos del Norte": 7,
+    "Nilfgaardiano": "Hijo Único",
+    "No-Humano": "Hijo Único"
+  },
+  {
+    "Reinos del Norte": 8,
+    "Nilfgaardiano": "Hijo Único",
+    "No-Humano": "Hijo Único"
+  },
+  {
+    "Reinos del Norte": "Hijo Único",
+    "Nilfgaardiano": 1,
+    "No-Humano": "Hijo Único"
+  },
+  {
+    "Reinos del Norte": "Hijo Único",
+    "Nilfgaardiano": "Hijo Único",
+    "No-Humano": "Hijo Único"
+  }
+]

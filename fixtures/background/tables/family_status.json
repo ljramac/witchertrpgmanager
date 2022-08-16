@@ -1,37 +1,37 @@
 [
   {
-    "Norteño": "Aristocracia Creciste en una mansión señorial, con sirvientes que te atendían, pero siempre se esperó que te comportases e impresionases a los demás. Equipo Inicial: Documento nobiliario (+2 a Reputación)",
-    "Nilfgaardiano": "Aristocracia Creciste en una mansión y te formaron para que conocieses bien el mundo de la corte. El lujo era solo un incentivo para ti. Equipo Inicial: Documento nobiliario (+2 a Reputación)",
+    "Reinos del Norte": "Aristocracia Creciste en una mansión señorial, con sirvientes que te atendían, pero siempre se esperó que te comportases e impresionases a los demás. Equipo Inicial: Documento nobiliario (+2 a Reputación)",
+    "Nilfgaard": "Aristocracia Creciste en una mansión y te formaron para que conocieses bien el mundo de la corte. El lujo era solo un incentivo para ti. Equipo Inicial: Documento nobiliario (+2 a Reputación)",
     "Tierras Antiguas": "Aristocracia Creciste en un palacio y se te recordó constantemente la gloria del pasado. Se esperaba que estuvieses a la altura de tu legado. Equipo Inicial: Documento nobiliario (+2 a Reputación)"
   },
   {
-    "Norteño": "Adoptado por un Mago Siendo joven, te entregaron a un mago. Viviste holgadamente, pero apenas veías a tu tutor, que siempre estaba ocupado. Equipo Inicial: Crónica (+1 a Cultura)",
-    "Nilfgaardiano": "Alto Clero Te criaste entre el clero del Gran Sol. Te volviste una persona beata y siempre tuviste presente que la Iglesia te guiaría. Equipo Inicial: Símbolo sagrado (+1 a Coraje)",
+    "Reinos del Norte": "Adoptado por un Mago Siendo joven, te entregaron a un mago. Viviste holgadamente, pero apenas veías a tu tutor, que siempre estaba ocupado. Equipo Inicial: Crónica (+1 a Cultura)",
+    "Nilfgaard": "Alto Clero Te criaste entre el clero del Gran Sol. Te volviste una persona beata y siempre tuviste presente que la Iglesia te guiaría. Equipo Inicial: Símbolo sagrado (+1 a Coraje)",
     "Tierras Antiguas": "Guerrero Noble Creciste como descendiente de un noble guerrero y se espera que estés a la altura de la reputación de tu familia y que nunca deshonres su memoria. Equipo Inicial: Heráldica personal (+1 a Reputación)"
   },
   {
-    "Norteño": "Caballería Creciste en una mansión donde aprendiste a ser la perfecta dama (o señor). Tienes un destino fijado desde que naciste. Equipo Inicial: Heráldica personal (+1 a Reputación)",
-    "Nilfgaardiano": "Caballería Creciste sabiendo que tu deber era servir al Emperador y que todos esos lujos eran una recompensa por tus servicios. Equipo Inicial: Heráldica personal (+1 a Reputación)",
+    "Reinos del Norte": "Caballería Creciste en una mansión donde aprendiste a ser la perfecta dama (o señor). Tienes un destino fijado desde que naciste. Equipo Inicial: Heráldica personal (+1 a Reputación)",
+    "Nilfgaard": "Caballería Creciste sabiendo que tu deber era servir al Emperador y que todos esos lujos eran una recompensa por tus servicios. Equipo Inicial: Heráldica personal (+1 a Reputación)",
     "Tierras Antiguas": "Mercaderes Creciste entre mercaderes ambulantes. En ocasiones la vida fue dura, pero la artesanía no-humana siempre resulta valiosa. Equipo Inicial: 2 Conocidos"
   },
   {
-    "Norteño": "Familia de Mercaderes Creciste entre mercaderes, siempre rodeado de gritos, regateos y dinero. Equipo Inicial: 2 Conocidos",
-    "Nilfgaardiano": "Familia de Artesanos Creciste en un taller de artesano, aprendiendo a fabricar productos que se venderían por todo el mundo. Aprendiste a valorar la calidad. Equipo Inicial: 3 Diagramas/Fórmulas Comunes",
+    "Reinos del Norte": "Familia de Mercaderes Creciste entre mercaderes, siempre rodeado de gritos, regateos y dinero. Equipo Inicial: 2 Conocidos",
+    "Nilfgaard": "Familia de Artesanos Creciste en un taller de artesano, aprendiendo a fabricar productos que se venderían por todo el mundo. Aprendiste a valorar la calidad. Equipo Inicial: 3 Diagramas/Fórmulas Comunes",
     "Tierras Antiguas": "Familia de Escribas Creciste en una familia de escribas, registrando y protegiendo tanto como fuera posible de la historia del pueblo antiguo. Equipo Inicial: Crónica (+1 a Cultura)"
   },
   {
-    "Norteño": "Familia de Artesanos Creciste en un taller de artesano. Tus días, a menudo largos, estaban llenos del incesante sonido de la creación. Equipo Inicial: 3 Diagramas/Fórmulas Comunes",
-    "Nilfgaardiano": "Familia de Mercaderes Creciste vendiendo artículos por todo el Imperio. Viste toda clase de productos exóticos de todo el mundo. Equipo Inicial: 2 Conocidos",
+    "Reinos del Norte": "Familia de Artesanos Creciste en un taller de artesano. Tus días, a menudo largos, estaban llenos del incesante sonido de la creación. Equipo Inicial: 3 Diagramas/Fórmulas Comunes",
+    "Nilfgaard": "Familia de Mercaderes Creciste vendiendo artículos por todo el Imperio. Viste toda clase de productos exóticos de todo el mundo. Equipo Inicial: 2 Conocidos",
     "Tierras Antiguas": "Artistas Creciste cantando e interpretando. Trabajabas entre bambalinas, ayudabas a componer canciones y arreglabas instrumentos. Equipo Inicial: 1 Instrumento y 1 Amigo"
   },
   {
-    "Norteño": "Familia de Artistas Creciste con una troupe de actores. Puede que viajases o que actuasen en un teatro. Equipo Inicial: 1 Instrumento y 1 Amigo",
-    "Nilfgaardiano": "Plebeyos Naciste como plebeyo y vivías en un barrio humilde. Tenías pocas posesiones y trabajabas mucho en los campos. Equipo Inicial: 1 Ave/Serpiente adiestrada",
+    "Reinos del Norte": "Familia de Artistas Creciste con una troupe de actores. Puede que viajases o que actuasen en un teatro. Equipo Inicial: 1 Instrumento y 1 Amigo",
+    "Nilfgaard": "Plebeyos Naciste como plebeyo y vivías en un barrio humilde. Tenías pocas posesiones y trabajabas mucho en los campos. Equipo Inicial: 1 Ave/Serpiente adiestrada",
     "Tierras Antiguas": "Familia de Artesanos Creciste en una familia de artesanos, visitando palacios antiguos para inspirarte y dedicando muchas horas al día a diversos proyectos. Equipo Inicial: 3 Diagramas/Fórmulas Comunes"
   },
   {
-    "Norteño": "Familia de Campesinos Creciste en una granja en el campo. No tenías muchas propiedades y tu vida era sencilla, aunque peligrosa. Equipo Inicial: Amuleto de la Suerte (+1 a Suerte)",
-    "Nilfgaardiano": "Familia de Campesinos Creciste en una de las miles de granjas que hay en todo el Imperio. Tenías pocas posesiones pero la vida era sencilla. Equipo Inicial: Amuleto de la Suerte (+1 a Suerte)",
+    "Reinos del Norte": "Familia de Campesinos Creciste en una granja en el campo. No tenías muchas propiedades y tu vida era sencilla, aunque peligrosa. Equipo Inicial: Amuleto de la Suerte (+1 a Suerte)",
+    "Nilfgaard": "Familia de Campesinos Creciste en una de las miles de granjas que hay en todo el Imperio. Tenías pocas posesiones pero la vida era sencilla. Equipo Inicial: Amuleto de la Suerte (+1 a Suerte)",
     "Tierras Antiguas": "Familia Humilde Creciste en una familia humilde, sirviendo en mansiones ajenas o desempeñando trabajos sin importancia por tu ciudad. Equipo Inicial: Amuleto de la Suerte (+1 a Suerte)"
   }
 ]

@@ -1,0 +1,294 @@
+[
+  {
+    "title": "Artesano",
+    "description": "Pa mí que artesano es el segundo oficio más común, después de granjero. Bué, las putas también andarán por ahí, pero ya mentiendes. Algunos los llaman artífices. ¡Je! Artesano incluye de to, de remendón a pocionero pero, si se meten en algún tipo daventura, probablemente sean herreros o alquimistas. Siempre va bien tener a mano uno desos mezclapociones. La alquimia es una ciencia que lleva mucho trecho rodao y hay un puñao de cosas útiles que solo pué preparar un buen alquimista. Ácidos, líquidos superinflamables, bombas... de to. Está claro que cualquiera con equipo dalquimia pué hacer esas cosas, pero solo un alquimista aplicao pué hacerlas como deben ser. Dirás que es porque soy enano pero pa mí los herreros son los artesanos más respetables que rondan por ahí. Pasan horas junto a una forja encendía, trabajando los materiales más duros y con la mayor precisión. Un buen herrero pué hacer una espada tan afilá que perfore la armadura de los enemigos más correosos, o una armadura tan fuerte que resista a un condenao trol. Pasé un tiempo trabajando derrero en Angren, antes de la Segunda Guerra del Norte, y no es fácil. Cuando estuve metío en el ejército, luchando contra los negros, a mí y a unos mozos nos enviaron a los pantanos de Sodden pa parar un destacamento de nilfgaardianos. Aguantamos en el río, pero, tras to el día luchando, mi ballesta pilló humedá y la cuerda dio de sí. Allí mesmo, mientras los demás soltaban andanás y luchaban en el fango, un fabricante darcos llamao Klaus apañó una cuerda nueva pa mi ballesta y en un santiamén estaba disparando. Le debo la vida a ese tío.",
+    "vigor": 0,
+    "commonSkill": "Remendar",
+    "magicalAdvantages": [],
+    "skills": [
+      "Alquimia",
+      "Artesanía",
+      "Atletismo",
+      "Bellas Artes",
+      "Callejeo",
+      "Cultura",
+      "Negociar",
+      "Persuasión",
+      "Proezas de Fuerza",
+      "Resistencia"
+    ],
+    "initialEquipment": [
+      "50 coronas en componentes",
+      "Candado",
+      "Cofrecillo",
+      "Equipo de alquimia",
+      "Espada larga de hierro",
+      "Forja de reparaciones",
+      "Herramientas de artesano",
+      "Herramientas de mercader",
+      "Maza",
+      "Reloj de arena"
+    ],
+    "especial": []
+  },
+  {
+    "title": "Bardo",
+    "description": "Je, nunca sabes por dónde te va a salir un bardo desos. Algunos de mis más mejores recuerdos tienen que ver con ellos... y algunos de los más peores embrollos en que he estao también. Pué que tencuentres con un bardo como el famoso Jaskier, el aventurero, poeta y eterno compañero del legendario brujo Geralt de Rivia. Un hombre que s’ha recorrío el mundo reuniendo conocimientos e historias, parando en cada ciudá pa contar sus relatos y cantar las tonás de sus muchas aventuras. Esos bardos están bien. Pero digamos que nunca sabrás qué es verdá y qué es un cuento. A los bardos se les da bien alterar la verdá cuando eso les hace quedar mejó. Bué, eso casi nunca hace daño a nadie. No, los bardos con los que tiés que andarte con cuidao son los espías y manipuladores. Los bardos tienen mano para meterse en la cabeza de la gente, además de montarse cuentos. Te enredan, tiran de los hilos y t’hacen creer que sois amigos de verdá. Entonces, cuando menos te lo esperas, tencuentras con que un cuchillo se te hunde en el corazón. A nadie le sorprende que los diferentes reinos elijan a una montoná de bardos como espías. Por supuesto que un buen bardo también pué ser dutilidad pa cualquiera. Pongamos que necesitas enterarte duna leyenda, o quizá quieras cobrar una recompensa por el jefe duna banda peligrosa. Lo mejor que pués hacer pa enterarte de a quién estás buscando, ánde para y cómo hablar con él, es acudir a un bardo. ¡Ja! Como decía, nunca sabes por dónde te va a salir un bardo.",
+    "vigor": 0,
+    "commonSkill": "Juglaría",
+    "magicalAdvantages": [],
+    "skills": [
+      "Bellas Artes",
+      "Callejeo",
+      "Carisma",
+      "Engaño",
+      "Etiqueta",
+      "Interpretar",
+      "Lengua (elige 1)",
+      "Percepción Humana",
+      "Persuasión",
+      "Seducción"
+    ],
+    "initialEquipment": [
+      "Baraja de Gwent",
+      "Botella de licor",
+      "Daga",
+      "Diario con cerradura",
+      "Espejo de mano",
+      "Perfume/Colonia",
+      "Saquillo",
+      "Tablero de póquer de dados",
+      "Un instrumento",
+      "Vaina para muslo"
+    ],
+    "especial": []
+  },
+  {
+    "title": "Brujo",
+    "description": "Como te decía, viajé un tiempo con un brujo. Una vez le pregunté a qué santo seguía haciendo de brujo. No parecía serle de provecho. ¡Je! Un trabajo en que los críos corren pa casa y los padres encierran a sus hijas en cuanto llegas a la ciudad no parece hecho pa mí. Supongo que debería haberme esperao su respuesta: no sabía ser otra cosa. Pos tié sentío. Te pasas la vía entera haciendo algo asín y no tiés otra cosa que hacer. Pero no to es malo. Un brujo sigue siendo algo acojonante. Son unos espadachines de mil demonios: hasta vi a ese brujo parar una saeta que le habían disparao. Si eso no te parece brutal, sigue atendiendo. Esas piruetas tan vistosas que hacen los brujos puen destrozar a un espadachín que sea más lento. Hacen que la hoja se mueva tan rápido que apenas pués seguirla. Es como un rayo plateao. Si sobrevives a su espada, aún has de cuidarte de su dichosa alquimia. Al menos antiguamente, los brujos llevaban un montón de pociones y aceites que podían volverlos malas bestias en el campo de batalla: les hacían entoavía más rápidos, hacían que se curasen como hombres lobo... y pa colmo un brujo es una especie de pequeño mago. No es tan poderoso como un hechicero, eso sí, pero siguen pudiendo usar magia. Tien esas cosas llamadas Señales, que son gestos especiales con la mano que tien efectos mágicos. ¡Je! Un mago se reiría dellos porque parece que no están a la altura de los hechizos más básicos, pero son impresionantes ¿qué quieres que te diga? Sobre to creo que es bueno que los brujos solo cacen monstruos. O al menos antes era asín.",
+    "vigor": 2,
+    "commonSkill": "Formación de Brujo",
+    "magicalAdvantages": ["Todas las Señales Básicas"],
+    "skills": [
+      "Advertir/Notar",
+      "Alquimia",
+      "Atletismo",
+      "Deducción",
+      "Espada",
+      "Esquivar/Zafarse",
+      "Lanzar Hechizos",
+      "Montar",
+      "Sigilo",
+      "Supervivencia"
+    ],
+    "initialEquipment": [
+      "Ballesta de mano",
+      "Caballo",
+      "Cuchillos arrojadizos (x5)",
+      "Equipo de alquimia",
+      "Gambesón con forro"
+    ],
+    "especial": [
+      "Espada de acero de brujo",
+      "Espada de plata de brujo",
+      "2 Fórmulas de aceites",
+      "1 Fórmula de extracto",
+      "2 Fórmulas de pociones",
+      "Medallón de brujo"
+    ]
+  },
+  {
+    "title": "Criminal",
+    "description": "Criminal es un término mu amplio. Engloba to lo que va de un abridor de cajas fuertes profesional a asesinos a tiempo parcial. Pero tós tienen algo en común. ¡Ja! Que si les pillan, sacabó. Pa qué engañarnos, he tratao con criminales de Kovir a Gemmeria, ida y vuelta. Contrabandistas, asesinos, ladrones... de tós los colores y tamaños. A veces son buena gente. Algunos solo quieren sobrevivir. Los ladrones son bastante tratables y vienen mu bien. Los cerrajeros, cortabolsas y rateros son de lo mejorcito pa entrar en cualquier lao. Si tiés que cruzar una puerta cerrá o hacerte con cierto objeto con el menor ruido posible, lo mejor es recurrir a un ladrón. Los cortagargantas están bien siempre que no seas su objetivo. Conocí algunos en su día. Siguen toa clase de códigos personales (más que muchos ladrones, me creo) con muchos detalles de a quién matar y a quién no, qué es demasiao arriesgao, qué es barato y qué te va a costar un ojo de la cara... Pero, al fin y al cabo, se dedican a matar y se les da bien. Conocí a una moza elfa que llevaba dieciséis cuchillos. Aunque no pude encontrarlos tós, ja, ja, ja. Pa terminar, hasta donde yo sé, están los criminales profesionales. Jefes de bandas que tienen como negocio el crimen, en general. Son con los que tiés que andarte con más cuidao. A ese nivel hay zumbaos filántropos que roban a los ricos pa ayudar a su gente y un buen puñao dasesinos sádicos y despiadaos. Siempre preparando algún golpe, siempre buscando la situación que al final les venga mejor. Cuesta no sentirse una pieza en un tablero cuando uno está con ellos.",
+    "vigor": 0,
+    "commonSkill": "Paranoia Entrenada",
+    "magicalAdvantages": [],
+    "skills": [
+      "Abrir Cerraduras",
+      "Advertir/Notar",
+      "Atletismo",
+      "Callejeo",
+      "Engaño",
+      "Falsificación",
+      "Hoja Corta",
+      "Intimidar",
+      "Juego de Manos",
+      "Sigilo"
+    ],
+    "initialEquipment": [
+      "Bolsillo oculto",
+      "Cloroformo",
+      "Cuchillos arrojadizos (x5)",
+      "Dados cargados",
+      "Estilete nilfgaardiano",
+      "Herramientas de ladrón",
+      "Linterna de ojo de buey",
+      "Nudilleras",
+      "Vaina de antebrazo",
+      "Zurrón"
+    ],
+    "especial": []
+  },
+  {
+    "title": "Doctor",
+    "description": "Je, to quisque que haya servío alguna vez en un ejército sabe lo útil que pué ser un doctor. Camarada, si se mabriese ahora mesmo cada herida que ma curao un doctor, parecería más un ghul que un enano. Anduve un tiempo con un doctor de Nilfgaard. Je, uno de los pocos negros que he podío aguantar. Te juro quese hijoputa podía hacer milagros cuando le venía en gana. Claro que un buen doctor, de los de verdá, está entrenao pacer ese tipo de cosas. Traer a la gente de las mesmas puertas de la muerte. Usar to ese conocimiento que reciben en sus finas academias pa identificar achaques, heridas y demás. Averiguar la mejor manera darreglar lo que te pase... Un buen doctor sabe también de yerbas medicinales. Vendo hojas, raíces y demás a puñaos a casi cualquier compadre culto que mencuentro por ahí, pero los doctores parecen ser los que más las usan. Cataplasmas, pociones, polvos... de to. Y to pa evitar sangraos, vomiteras y padecimientos. He oío que los herboristas buenos de verdá puen hasta hacer sus propios brebajes. A un servidor le parece un suicidio pero, ¿qué se yo? Mezclar los yerbajos que uno encuentra y sacar algo útil deso... ¡Je! De seguro que si no te sale un remedio acabas con un veneno igual defectivo. Con to lo que saben sobre cómo arreglar a una persona, un doctor bien pué estropiciarla. Sabe dónde hay que cortar, cómo hacer que las heridas sean entoavía más difíciles de tratar pa otro desgraciao. Toa clase de conocimientos que personalmente preferiría que nunca se usasen pa mal. Bué, supongo que en un mundo asín, hasta los matasanos tienen que defenderse de tanto en tanto.",
+    "vigor": 0,
+    "commonSkill": "Manos que Curan",
+    "magicalAdvantages": [],
+    "skills": [
+      "Alquimia",
+      "Carisma",
+      "Coraje",
+      "Deducción",
+      "Etiqueta",
+      "Hoja Corta",
+      "Negociar",
+      "Percepción Humana",
+      "Resistir Coacción",
+      "Supervivencia"
+    ],
+    "initialEquipment": [
+      "Daga",
+      "Herramientas de cirujano",
+      "Hierbas anestesiantes (x10)",
+      "Líquido desinfectante (x10)",
+      "Manta",
+      "Polvo coagulante (x10)",
+      "Reloj de arena",
+      "Set de escritura",
+      "Tienda de campaña grande",
+      "Velas (x10)"
+    ],
+    "especial": []
+  },
+  {
+    "title": "Hombre de Armas",
+    "description": "Ya sé lo que andas pensando: “¡Rodolf, pequeño cabrón! ¡Has luchao en dos campañas! ¡Seguro queres un hombre darmas! ¡Un soldao hasta las trancas! ¡Un soldao hasta el tuétano!” Y te equivocarías. Sí, luché en dos campañas. Fui batidor en la Primera Guerra del Norte, ballestero en la Segunda. Luché en Sodden. Luché en Brenna. Y nunca se me dio bien. No como a los soldaos de verdá que entrenaban pa eso toa su vida. Yo luchaba porque amo mi país. ¡Je! Deja que te diga que amar a tu país y tener una ballesta no te hacen un soldao. Los soldaos de verdá son hombres como Vernon Roche y Juan Natalis. Dos de los mejores jodíos soldaos que haya conocío jamás. Saben lo que se hacen y casi nunca se meten en marrones. Un hombre darmas vive el combate y respira conflicto. Cuando no están en guerra sirven de guardaespaldas y mercenarios. En el campo de batalla son unas malas bestias y empuñan sus armas sin una pizca de miedo en el cuerpo. Cargan contra el enemigo con armaduras de lo mejorcito, blandiendo una puñetera espada tan alta como ellos mismos y cortando las cabezas de los caballeros que se acercan a ellos. Suelta a uno en los cenagales del Pontar y tendrás un depredador de verdá que rastreará a los elfos entre el follaje, que pondrá trampas en cada rincón y que leerá a sus enemigos como un puto libro abierto. Pon una ballesta en manos de un verdadero hombre darmas y le meterá una saeta en el ojo a un negro desde ciento veinte yardas. Puede que yo fuera un soldao, pero nunca seré un hombre darmas. Y créeme: por mí, perfecto.",
+    "vigor": 0,
+    "commonSkill": "Duro como un Cuerno",
+    "magicalAdvantages": [],
+    "skills": [
+      "5 Habilidades de Combate",
+      "cualesquiera*",
+      "Coraje",
+      "Esquivar/Zafarse",
+      "Intimidar",
+      "Proezas de Fuerza",
+      "Supervivencia"
+    ],
+    "initialEquipment": [
+      "Ballesta y saetas (x20)",
+      "Brigandina",
+      "Cofia de malla",
+      "Cuchillos arrojadizos (x5)",
+      "Hacha de guerra",
+      "Jambia",
+      "Lanza",
+      "Pantalón acorazado",
+      "Rodela de acero",
+      "Zurrón"
+    ],
+    "especial": []
+  },
+  {
+    "title": "Mago",
+    "description": "Magos, hechiceros y brujas; la gente los llama de to. Yo, por mi parte, los llamo problemas, pero es mi humilde opinión. Un mago solo es alguien que pué sacar magia natural de los reinos elementales, algo que la gente llama “Caos Primordial”. Van a grandes escuelas mu finas, sobre to a Ban Ard y Aretusa, en el Norte, y a Gweision Haul, en el sur. Tuve algunos... ejem... asuntillos con cierta hechicera no hace muchas lunas y, entre unas cosas y otras, me iluminó un poco. Me dijo que los magos son poderosos conductos pa la energía mágica siempre que no usen demasiao poder, que puen hacer casi cualquier cosa con ella. Los magos, con trastos como varitas, bastones o amuletos pa concentrarse, puen hasta regular to ese poder y canalizar entoavía más. Dijo que en las academias enseñaban a los magos a tener seso y ser previsores, a usar la magia pacer avanzar la ciencia y mejorar la vida de la gente. ¡Je! Mu optimista me parece a mí. No pueo negar que los magos hacen que las cosas vayan mejor por aquí. Sin ellos, lo más seguro es que no hubiese ciencia tal y como la conocemos. Durante mucho tiempo, había un mago en la corte de casi tós los reyes. Como consejeros de la realeza, estaban entre las personas más poderosas e influyentes de tol mundo. Un buen puñao siguen usando esos trucos y trampas con los que se manejaban en la corte. Eso es la mitá de lo que los hace tan peligrosos. Pero luego saltó to ese follón con lo de la Logia de Hechiceras. Ahora nadie confía en los magos, ni en el Norte ni en el sur. Mi... “amiga” hechicera lo perdió to por esas putas malnacías. Ahora no pue ni entrar en una ciudad del Norte sin disfrazarse.",
+    "vigor": 5,
+    "commonSkill": "Formación Mágica",
+    "magicalAdvantages": [
+      "5 Hechizos de Novicio",
+      "1 Maleficio de Escaso Peligro",
+      "1 Ritual de Novicio"
+    ],
+    "skills": [
+      "Bastón/Lanza",
+      "Cultura",
+      "Elaborar Rituales",
+      "Etiqueta",
+      "Lanzar Hechizos",
+      "Percepción Humana",
+      "Resistir Magia",
+      "Seducción",
+      "Urdir Maleficios",
+      "Vestuario y Estilo"
+    ],
+    "initialEquipment": [
+      "100 coronas en componentes",
+      "Bastón",
+      "Daga",
+      "Diario",
+      "Espejo de mano",
+      "Reloj de arena",
+      "Saquillo",
+      "Set de escritura",
+      "Set de maquillaje",
+      "Vaina para muslo"
+    ],
+    "especial": []
+  },
+  {
+    "title": "Mercader",
+    "description": "Echa una ojeá. Mira en tu bolsa, tu zurrón y tus alforjas. Me juego lo que sea a que la mayoría de lo que tiés lo has sacao dalgún mercader. ¿A que he acertao?¡Je! Camarada, tol mundo se mete con los mercaderes pero no se pispan de que somos mu importantes. Los mercaderes llevamos a la gente lo que necesitan. Cuando un hombre de Mettina quiere una espada ancha redania, pué jugarse el pellejo cruzando nuestro ancho y peligroso mundo o pué acudir a un mercader. Lo más seguro es que nunca veas Zerrikania pero, mientras lleguen barcos mercantes cada pocos meses, tendrás marfil, sables exóticos y lo que haga falta. Un buen mercader es una puerta al mundo entero. Sabemos lo que vendemos, ánde encontrarlo y cómo conseguirlo por dos chavos. O al menos pillar una ganga. Si necesitas información o quizá un favor, ve a un mercader. Tengo amigos por casi toas las ciudades y, por una monedajas, pueo averiguar casi cualquier cosa ande sea. Y además está la guita. ¡Ah, los cuartos! Si eres un mercader medio decente, pués sacar tajá de casi cualquier cosa... dahí vienen los ingresos. Los ingresos traen más cuartos y los cuartos traen poder. ¿Que tiés que entrar en una fiesta refiná? Mucho más fácil cuando vas a la última y arrastras un monedero tan grande como el puño dun enano. ¿Que no tapetece ensuciarte las manos? Siempre hay alguien dispuesto a hacer el trabajo sucio por el precio adecuao. Un mercader vive o la diña según sus contactos, su conocimiento y sus productos. Mientras tengas esas tres cosas a punto, te forras. Y también va bien llevar una ballesta bajo el asiento del carro... no sea que tencuentres clientes de los que no regatean.",
+    "vigor": 0,
+    "commonSkill": "Trotamundos",
+    "magicalAdvantages": [],
+    "skills": [
+      "Callejeo",
+      "Carisma",
+      "Cultura",
+      "Hoja Corta",
+      "Juego",
+      "Lengua (elige 2)",
+      "Negociar",
+      "Percepción Humana",
+      "Persuasión",
+      "Resistir Coacción"
+    ],
+    "initialEquipment": [
+      "Ballesta y saetas (x20)",
+      "Daga",
+      "Diario",
+      "Herramientas de mercader",
+      "Set de escritura",
+      "Tienda de campaña grande",
+      "Mula y una carreta con 1000 coronas de objetos comunes o cotidianos."
+    ],
+    "especial": []
+  },
+  {
+    "title": "Sacerdote",
+    "description": "Conocí una vé a un sacerdote sorprendentemente tolerante en Mag Turga que me dijo: “Tos encuentran a los dioses a su manera”. Mimagino que es una buena manera de describir a los sacerdotes en general. Hay sectas en el Sur que creen en un gran cataclismo y un nuevo sol, fanáticos en el Norte que adoran la lumbre y algunos zumbaos de verdá que veneran a una diosa de la vida y fertilidá. ¡Je! La cosa es que tol mundo encuentra alguna divinidá en algún lao. Cuesta demostrar que tu dios es el único, asín que las iglesias crecen como setas. Algunos sacerdotes tién el don de la magia, aunque nunca admitirán que son como esos magos descreíos. ¡Je! No importa cuánto se parezca su magia, a ellos se la da su dios, asín ques aceptable. Normalmente estos sacerdotes atienden ciudades y pueblos grandes, cuidan de la moral de su región y saseguran que la gente sea beata y esté en armonía con su dios o lo que sea que adoren. Luego tiés a los druidas. Buena gente siempre que no seas un furtivo o un peazo cabrón. Viven en comunión con la naturaleza y se pasan el tiempo manteniendo el equilibrio. Nunca he tenío el gusto de conocer a uno en persona, aunque he oío algunas cosillas. Hoy en día hay menos que antes. Muchos están en las Islas Skellige, según tengo entendío. Y, pa terminar, están los radicales y los sectarios de verdá. Con esos tiés que andarte con ojo. Nunca sabes por ánde te va a salir un hijoputa zumbao guiao por la palabra de su dios. O peor entoavía, qué obligará a hacer a sus seguidores en nombre de sus dioses un sacerdote ávido de poder. Yo diría que en Redania, ahora mismo, vemos a qué llevan esas cosas. Ese lugar está patas parriba desde quel Fuego Eterno se hizo con el control.",
+    "vigor": 2,
+    "commonSkill": "Iniciado de los Dioses",
+    "magicalAdvantages": [
+      "2 Plegarias de Novicio",
+      "2 Maleficios de Escaso Peligro",
+      "2 Rituales de Novicio"
+    ],
+    "skills": [
+      "Carisma",
+      "Coraje",
+      "Elaborar Rituales",
+      "Enseñar",
+      "Lanzar Hechizos",
+      "Liderazgo",
+      "Percepción Humana",
+      "Primeros Auxilios",
+      "Supervivencia",
+      "Urdir Maleficios"
+    ],
+    "initialEquipment": [
+      "100 coronas en componentes",
+      "Bastón",
+      "Bolsa ritual",
+      "Daga",
+      "Equipo de alquimia",
+      "Herramientas de cirujano",
+      "Hierbas anestesiantes (x5)",
+      "Líquido desinfectante (x5)",
+      "Polvo coagulante (x5)",
+      "Símbolo sagrado"
+    ],
+    "especial": []
+  }
+]

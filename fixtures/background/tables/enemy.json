@@ -1,0 +1,52 @@
+[
+  {
+    "Género": "Hombre",
+    "Posición": "Examigo",
+    "La Causa": "Uno atacó al otro"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Examante",
+    "La Causa": "Uno causó la pérdida de un ser querido"
+  },
+  {
+    "Género": "Hombre",
+    "Posición": "Pariente",
+    "La Causa": "Uno causó una gran humillación"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Enemigo de la infancia",
+    "La Causa": "Uno provocó una maldición"
+  },
+  {
+    "Género": "Hombre",
+    "Posición": "Sectario",
+    "La Causa": "Uno acusó al otro de brujería ilegal"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Bardo",
+    "La Causa": "Uno rechazó románticamente al otro"
+  },
+  {
+    "Género": "Hombre",
+    "Posición": "Soldado",
+    "La Causa": "Uno causó una terrible herida al otro"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Bandido",
+    "La Causa": "Chantaje"
+  },
+  {
+    "Género": "Hombre",
+    "Posición": "Duque",
+    "La Causa": "Uno frustró los planes del otro"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Mago",
+    "La Causa": "Uno provocó el ataque de un monstruo"
+  }
+]

@@ -24,6 +24,10 @@ module.exports = {
       ref: "User"
     }
   },
+  titleAndDescription: {
+    title: { type: String, required: true },
+    description: { type: String, required: true }
+  },
   prefind: function (next) {
     this.where({ deletedAt: { $exists: false } });
     this.sort({ createdAt: -1 });

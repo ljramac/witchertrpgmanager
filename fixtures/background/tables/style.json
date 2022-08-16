@@ -1,0 +1,62 @@
+[
+  {
+    "Vestuario": "Uniforme",
+    "Personalidad": "Reservada",
+    "Peinado": "Largo y Suelto",
+    "Complementos": "Trofeos"
+  },
+  {
+    "Vestuario": "Ropa de Viaje",
+    "Personalidad": "Rebelde",
+    "Peinado": "Rapado",
+    "Complementos": "Anillos y Joyas"
+  },
+  {
+    "Vestuario": "Ropa Elegante",
+    "Personalidad": "Violenta",
+    "Peinado": "Corto e irregular",
+    "Complementos": "Baratijas"
+  },
+  {
+    "Vestuario": "Ropa Harapienta",
+    "Personalidad": "Idealista",
+    "Peinado": "Trenzado",
+    "Complementos": "Tatuajes"
+  },
+  {
+    "Vestuario": "Ropa Práctica",
+    "Personalidad": "Contemplativa",
+    "Peinado": "Largo y Despeinado",
+    "Complementos": "Pintura de Guerra"
+  },
+  {
+    "Vestuario": "Ropa Tradicional",
+    "Personalidad": "Seria",
+    "Peinado": "Calvo",
+    "Complementos": "Capa Sombría"
+  },
+  {
+    "Vestuario": "Ropa Provocativa",
+    "Personalidad": "Engañosa",
+    "Peinado": "Corto Uniforme",
+    "Complementos": "Pañuelos Llamativos"
+  },
+  {
+    "Vestuario": "Ropa Pesada",
+    "Personalidad": "Simpática",
+    "Peinado": "Desgreñado y Desastrado",
+    "Complementos": "Parche en un Ojo"
+  },
+  {
+    "Vestuario": "Ropa Extraña",
+    "Personalidad": "Arrogante",
+    "Peinado": "Peinado Complejo",
+    "Complementos": "Pieles"
+  },
+  {
+    "Vestuario": "Ropa Extravagante",
+    "Personalidad": "Nerviosa",
+    "Peinado": "Rapado por los Lados",
+    "Complementos": "Insignias y Placas"
+  }
+]
