@@ -1,0 +1,52 @@
+[
+  {
+    "Género": "Hombre",
+    "Posición": "Cazarrecompensas",
+    "Cómo Os Conocisteis": "Le salvaste de algo"
+  },
+  {
+    "Género": "Hombre",
+    "Posición": "Mago",
+    "Cómo Os Conocisteis": "Os conocisteis en una taberna"
+  },
+  {
+    "Género": "Hombre",
+    "Posición": "Mentor o Maestro",
+    "Cómo Os Conocisteis": "Te salvó de algo"
+  },
+  {
+    "Género": "Hombre",
+    "Posición": "Amigo de la Infancia",
+    "Cómo Os Conocisteis": "Te contrató para algo"
+  },
+  {
+    "Género": "Hombre",
+    "Posición": "Artesano",
+    "Cómo Os Conocisteis": "Os quedasteis atrapados juntos"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Antiguo Enemigo",
+    "Cómo Os Conocisteis": "Os visteis obligados a cooperar"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Duque",
+    "Cómo Os Conocisteis": "Le contrataste para algo"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Sacerdote",
+    "Cómo Os Conocisteis": "Os conocisteis borrachos y os llevasteis bien"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Soldado",
+    "Cómo Os Conocisteis": "Os conocisteis estando de viaje"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Bardo",
+    "Cómo Os Conocisteis": "Luchasteis juntos"
+  }
+]

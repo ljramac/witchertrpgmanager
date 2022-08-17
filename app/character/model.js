@@ -65,7 +65,7 @@ const CharacterSchema = new Schema({
     ref: "Job",
     autopopulate: true
   },
-  origins: {
+  background: {
     type: new Schema({
       kingdom: {
         type: mongoose.Schema.Types.ObjectId,
@@ -73,10 +73,11 @@ const CharacterSchema = new Schema({
         autopopulate: true,
         required: true
       },
-      family: { type: String, required: true }
+      family: { type: String, required: true },
+      events: [{ type: String }],
+      raw: { type: String, required: true }
     })
   },
-  background: { type: String, required: true },
   inventory: [{ type: String }],
   gold: { type: Number },
   reputation: { type: Number },

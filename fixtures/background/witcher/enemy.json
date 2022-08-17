@@ -1,0 +1,37 @@
+[
+  {
+    "Género": "Hombre",
+    "Posición": "Noble",
+    "Causa": "Te difamó",
+    "Poder": "Posición social",
+    "Situación": "Olvidado"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Mercenario",
+    "Causa": "Frustraste su plan",
+    "Poder": "Conocimiento",
+    "Situación": "Traicionero"
+  },
+  {
+    "Género": "Hombre",
+    "Posición": "Soldado",
+    "Causa": "Te traicionó",
+    "Poder": "Físico",
+    "Situación": "Violento"
+  },
+  {
+    "Género": "Mujer",
+    "Posición": "Mercader",
+    "Causa": "Mataste a los suyos",
+    "Poder": "Lacayos",
+    "Situación": "Busca venganza"
+  },
+  {
+    "Género": "Hombre",
+    "Posición": "Criminal",
+    "Causa": "Te engañó",
+    "Poder": "Magia",
+    "Situación": "Quiere sangre"
+  }
+]

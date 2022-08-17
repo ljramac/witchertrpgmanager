@@ -1,6 +1,7 @@
 extends ../../base/views/layout
 
 block content
+  input(id="fixtures" type="hidden" value=JSON.stringify(fixtures))
   div(class="row")
     div(class="col-md-12")
       div(id="accordion")
@@ -40,3 +41,9 @@ block content
               h5(class="mb-0")
                 button(class="btn btn-link" data-toggle="collapse" data-target="#shopStepContent" aria-expanded="true" aria-controls="shopStepContent") 7. Equípate
             include ./wizard/shop
+block append footer
+  script(type="text/javascript").
+    $("button").on("click", e => e.preventDefault())
+
+    const fixturesText = $("#fixtures").val();
+    const fixtures = JSON.parse(fixturesText);

@@ -1,0 +1,26 @@
+[
+  {
+    "Beneficio": [1],
+    "Aliado": [2],
+    "Cacería": [3],
+    "Nada": [4, 5, 6, 7, 8, 9, 10]
+  },
+  {
+    "Beneficio": [1],
+    "Aliado": [2],
+    "Cacería": [3, 4, 5],
+    "Nada": [6, 7, 8, 9, 10]
+  },
+  {
+    "Beneficio": [1, 2],
+    "Aliado": [3, 4, 5, 6, 7],
+    "Cacería": [8],
+    "Nada": [9, 10]
+  },
+  {
+    "Beneficio": [1, 2, 3, 4, 5],
+    "Aliado": [6, 7],
+    "Cacería": [8, 9],
+    "Nada": [10]
+  }
+]
