@@ -15,6 +15,7 @@ const characterRouter = require("./character/router.js");
 const logger = require("../services/logger");
 
 const { locals } = require("./base/controller");
+const { populateDB } = require("./controller");
 
 const app = express();
 
@@ -57,6 +58,7 @@ app.use("/character", characterRouter);
 const init = async () => {
   try {
     await mongoose.connect(process.env.MONGODB_URI);
+    await populateDB();
 
     app.listen(process.env.PORT);
   } catch (error) {

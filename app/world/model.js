@@ -17,11 +17,7 @@ const KingdomSchema = new Schema({
   ...base.schema,
   ...base.titleAndDescription,
   advantage: { type: String, required: true },
-  region: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: "Region",
-    autopopulate: true
-  },
+  region: { type: String, required: true },
   meta: {
     type: Object,
     default: {}

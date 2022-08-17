@@ -22,7 +22,7 @@ const JobSchema = new Schema({
 const RaceSchema = new Schema({
   ...base.schema,
   ...base.titleAndDescription,
-  advantages: [{ type: String }],
+  advantages: [base.titleAndDescription],
   meta: {
     type: Object,
     default: {}
