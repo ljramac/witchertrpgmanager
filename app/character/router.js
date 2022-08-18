@@ -1,5 +1,3 @@
-const path = require("path");
-const _ = require("lodash");
 const express = require("express");
 
 const { Router } = express;
@@ -9,26 +7,17 @@ const { locals } = require("../base/controller");
 
 const logger = require("../../services/logger");
 
-const { getFixtures } = require("./controller");
+const { getCreationData } = require("./controller");
 
 const router = Router();
 
 router
   .get("/", checkCredentials, locals, async (req, res) => {
     try {
-      const fixtures = await getFixtures();
 
-      const locals = { common: {}, witcher: {} };
+      const locals = await getCreationData();
 
-      for (const fixture of fixtures) {
-        const fx = require(path.resolve(fixture));
-
-        const category = /common/.test(fixture) ? "common" : "witcher";
-
-        locals[category][_.camelCase(path.parse(fixture).name)] = fx;
-      }
-
-      res.render("character/views/index", { fixtures: locals });
+      res.render("character/views/index", locals);
     } catch (error) {
       logger.error(error);
 
